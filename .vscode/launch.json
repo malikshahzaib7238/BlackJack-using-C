@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Shahzaib/Downloads/FoP Project/BlackJack",
-      "program": "c:/Users/Shahzaib/Downloads/FoP Project/BlackJack/build/Debug/outDebug",
+      "cwd": "c:/Users/Shahzaib/Documents/BlackJack",
+      "program": "c:/Users/Shahzaib/Documents/BlackJack/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
