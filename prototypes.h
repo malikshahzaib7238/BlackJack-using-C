@@ -1,6 +1,6 @@
 #pragma once
 //Function Prototypes
-int clubcard();      //Displays Club Card Image
+int clubcard();       //Displays Club Card Image
 int diamondcard();   //Displays Diamond Card Image
 int heartcard();     //Displays Heart Card Image
 int spadecard();     //Displays Spade Card Image
