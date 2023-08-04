@@ -1,2 +1,2 @@
 ### BlackJack Game using C
-This is a single player game and was developed using basic programming techniques. The colors.h header file is included to give color to the cards and the prototypes.h contains all the prototypes of the function used in this game. The results of the game are saved in the blackjack.txt file.
+This is a single-player game developed using fundamental programming techniques. The game utilizes the "colors.h" header file to add color to the cards and "prototypes.h" includes all the function prototypes used in the game. The game's outcomes are stored in the "blackjack.txt" file.
